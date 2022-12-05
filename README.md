@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Aman Pratap Tyagi
+HELLO WORLD !
+   Hi I am AMAN PRATAP TYGAI 👋, currently a student at IIMT Engineering College, Meerut Pursuing Computer Science Engineering.
+   
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning MERN developement
 
