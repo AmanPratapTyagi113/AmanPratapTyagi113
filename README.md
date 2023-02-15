@@ -1,8 +1,8 @@
 HELLO WORLD 👋 
 
-Hi I am AMAN PRATAP TYGAI 👋, currently a student at IIMT Engineering College, Meerut Pursuing Computer Science Engineering.
+Hi I am AMAN PRATAP TYGAI 👋, currently a student at IIMT Engineering College Meerut pursuing Computer Science Engineering.
   
-💻 I am a Web Developer skilled in JavaScript, Frontend Developement, Node.js, MySQL and C++
+💻 I am a Web Developer skilled in Frontend Developement, Node.js, MySQL and C++
 
 👨‍🎓 I am currently learning MERN Developement
   
