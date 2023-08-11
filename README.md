@@ -2,7 +2,7 @@
 
 <p>Hi I am AMAN PRATAP TYGAI 👋, I completed my Engineering with Distinction in Computer Science from Dr. A.P.J. Abdul Kalam Technical University</p>
   
-<p>💻 I am a Web Developer skilled in FullStack Developement, React.Js, Laravel, MySQL and C++</p>
+<p>💻 I am a Web Developer skilled in Backend Developement, Laravel, MySQL, REST API and C++ </p>
 
 <p>👨‍🎓 I am currently learning MERN Developement</p>
   
